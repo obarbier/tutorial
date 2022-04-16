@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abbreviation/.idea/abbreviation.iml" filepath="$PROJECT_DIR$/abbreviation/.idea/abbreviation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buffer-io/.idea/buffer-io.iml" filepath="$PROJECT_DIR$/buffer-io/.idea/buffer-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp-arra-sum/.idea/dp-arra-sum.iml" filepath="$PROJECT_DIR$/dp-arra-sum/.idea/dp-arra-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-practice.iml" filepath="$PROJECT_DIR$/.idea/go-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageconvert/.idea/imageconvert.iml" filepath="$PROJECT_DIR$/imageconvert/.idea/imageconvert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wasm/.idea/wasm.iml" filepath="$PROJECT_DIR$/wasm/.idea/wasm.iml" />
+    </modules>
+  </component>
+</project>
